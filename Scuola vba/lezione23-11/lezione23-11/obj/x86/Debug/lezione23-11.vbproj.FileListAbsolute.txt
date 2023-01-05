@@ -1,0 +1,12 @@
+F:\INFORMATICA\lezione23-11\lezione23-11\bin\Debug\lezione23-11.exe
+F:\INFORMATICA\lezione23-11\lezione23-11\bin\Debug\lezione23-11.pdb
+F:\INFORMATICA\lezione23-11\lezione23-11\bin\Debug\lezione23-11.xml
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23_11.Form1.resources
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23_11.Resources.resources
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.vbproj.GenerateResource.Cache
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.exe
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.xml
+F:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.pdb
+E:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.exe
+E:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.xml
+E:\INFORMATICA\lezione23-11\lezione23-11\obj\x86\Debug\lezione23-11.pdb

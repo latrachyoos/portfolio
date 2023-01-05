@@ -1,0 +1,12 @@
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.vbproj.GenerateResource.Cache
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\bin\Debug\compito.vettorinumerici.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\bin\Debug\compito.vettorinumerici.pdb
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\bin\Debug\compito.vettorinumerici.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\compito.vettorinumerici\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.pdb
+E:\INFORMATICA\compitovacanze.9\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.exe
+E:\INFORMATICA\compitovacanze.9\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.xml
+E:\INFORMATICA\compitovacanze.9\compito.vettorinumerici\obj\x86\Debug\compito.vettorinumerici.pdb

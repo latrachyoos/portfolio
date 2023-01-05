@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\bin\Debug\compito.ordinasomma.exe
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\bin\Debug\compito.ordinasomma.pdb
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\bin\Debug\compito.ordinasomma.xml
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\compito.ordinasomma.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\compito.ordinasomma.exe
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\compito.ordinasomma.xml
+F:\INFORMATICA\compito.ordinasomma\compito.ordinasomma\obj\x86\Debug\compito.ordinasomma.pdb

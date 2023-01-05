@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.somme\compito.somme\bin\Debug\compito.somme.exe
+F:\INFORMATICA\compito.somme\compito.somme\bin\Debug\compito.somme.pdb
+F:\INFORMATICA\compito.somme\compito.somme\bin\Debug\compito.somme.xml
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\compito.somme.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\compito.somme.exe
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\compito.somme.xml
+F:\INFORMATICA\compito.somme\compito.somme\obj\x86\Debug\compito.somme.pdb

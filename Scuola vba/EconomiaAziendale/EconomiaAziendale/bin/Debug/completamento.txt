@@ -1,0 +1,6 @@
+Merci conto acquisti
+Iva a credito
+Debiti verso fornitori
+Crediti verso clienti
+Merci conto vendite
+Iva a debito

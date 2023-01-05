@@ -1,0 +1,28 @@
+1649521650964	geckodriver	INFO	Listening on 127.0.0.1:64373
+1649521654001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64374" "-no-remote" "-profile" "C:\\Users\\latra\\AppData\\Local\\Temp\\rust_mozprofileFdx72Z"
+1649521655218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\latra\\AppData\\Local\\Temp\\rust_mozprofileFdx72Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64374/devtools/browser/255d85bd-64da-47b9-93ed-709b97cfac33
+1649521658913	Marionette	INFO	Listening on port 64402
+1649521659402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AAC8DQ-AAQAAuAjHjO_6ncrENeXj0ToHvBGA8bA3JxaXbgJTh0NTEG_huXYJ&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.200/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.200/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1732: TypeError: this._pc is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tiktok.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tiktok.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tiktok.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649523205193	Marionette	INFO	Stopped listening on port 64402
+e-debugging-port" "64864" "-no-remote" "-profile" "C:\\Users\\latra\\AppData\\Local\\Temp\\rust_mozprofiledyXWOh"
+1649522010499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\latra\\AppData\\Local\\Temp\\rust_mozprofiledyXWOh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64864/devtools/browser/869ee615-8590-4583-ae06-98c1fbc0ac0f
+1649522013074	Marionette	INFO	Listening on port 64870
+1649522013237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.200/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEAzKQ-AAQAA8cx3iq43wFgDkfvcTYqYMYzJkZMFYpxyAXP2oSWm8LoPaZZ7&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.200/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 1732: TypeError: this._pc is undefined

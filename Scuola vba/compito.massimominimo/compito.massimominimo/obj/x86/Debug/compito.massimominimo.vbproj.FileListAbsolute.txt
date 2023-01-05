@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\bin\Debug\compito.massimominimo.exe
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\bin\Debug\compito.massimominimo.pdb
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\bin\Debug\compito.massimominimo.xml
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\compito.massimominimo.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\compito.massimominimo.exe
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\compito.massimominimo.xml
+F:\INFORMATICA\compito.massimominimo\compito.massimominimo\obj\x86\Debug\compito.massimominimo.pdb

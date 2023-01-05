@@ -1,0 +1,9 @@
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\bin\Debug\compito.giocodelquindici.exe
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\bin\Debug\compito.giocodelquindici.pdb
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\bin\Debug\compito.giocodelquindici.xml
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\compito.giocodelquindici.vbproj.GenerateResource.Cache
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\compito.giocodelquindici.exe
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\compito.giocodelquindici.xml
+E:\INFORMATICA\compito.giocodelquindici\compito.giocodelquindici\obj\x86\Debug\compito.giocodelquindici.pdb

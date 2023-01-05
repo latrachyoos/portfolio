@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\bin\Debug\compito.lettereparallele.exe
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\bin\Debug\compito.lettereparallele.pdb
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\bin\Debug\compito.lettereparallele.xml
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\compito.lettereparallele.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\compito.lettereparallele.exe
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\compito.lettereparallele.xml
+F:\INFORMATICA\compito.lettereparallele\compito.lettereparallele\obj\x86\Debug\compito.lettereparallele.pdb

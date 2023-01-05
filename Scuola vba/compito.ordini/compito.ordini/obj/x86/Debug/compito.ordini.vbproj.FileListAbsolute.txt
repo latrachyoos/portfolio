@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.ordini\compito.ordini\bin\Debug\compito.ordini.exe
+F:\INFORMATICA\compito.ordini\compito.ordini\bin\Debug\compito.ordini.pdb
+F:\INFORMATICA\compito.ordini\compito.ordini\bin\Debug\compito.ordini.xml
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\compito.ordini.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\compito.ordini.exe
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\compito.ordini.xml
+F:\INFORMATICA\compito.ordini\compito.ordini\obj\x86\Debug\compito.ordini.pdb

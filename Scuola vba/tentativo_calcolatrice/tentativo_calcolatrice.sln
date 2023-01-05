@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tentativo_calcolatrice", "tentativo_calcolatrice\tentativo_calcolatrice.vbproj", "{033AF17B-458A-4C52-8D2C-97AD9571412B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033AF17B-458A-4C52-8D2C-97AD9571412B}.Debug|x86.ActiveCfg = Debug|x86
+		{033AF17B-458A-4C52-8D2C-97AD9571412B}.Debug|x86.Build.0 = Debug|x86
+		{033AF17B-458A-4C52-8D2C-97AD9571412B}.Release|x86.ActiveCfg = Release|x86
+		{033AF17B-458A-4C52-8D2C-97AD9571412B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

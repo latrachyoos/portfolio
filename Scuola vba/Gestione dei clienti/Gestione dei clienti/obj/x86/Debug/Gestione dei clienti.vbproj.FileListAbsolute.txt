@@ -1,0 +1,38 @@
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.exe
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.pdb
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.xml
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Form1.resources
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Resources.resources
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.exe
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.xml
+C:\Users\Pc-hh\Desktop\CORREZIONE VERIFICA PRATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.pdb
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.exe
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.xml
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.pdb
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.exe
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.pdb
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.xml
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Form1.resources
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Resources.resources
+C:\Users\michi\Downloads\Gestione dei clienti\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.vbproj.GenerateResource.Cache
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.pdb
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.pdb
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Form1.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Resources.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.vbproj.GenerateResource.Cache
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.exe
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.xml
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.pdb
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.exe
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.pdb
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\bin\Debug\Gestione dei clienti.xml
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Form1.resources
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione_dei_clienti.Resources.resources
+E:\INFORMATICA\Gestione dei clienti\Gestione dei clienti\obj\x86\Debug\Gestione dei clienti.vbproj.GenerateResource.Cache

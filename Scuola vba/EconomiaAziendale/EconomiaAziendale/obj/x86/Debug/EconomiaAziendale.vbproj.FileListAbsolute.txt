@@ -1,0 +1,9 @@
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\bin\Debug\EconomiaAziendale.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\bin\Debug\EconomiaAziendale.pdb
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\bin\Debug\EconomiaAziendale.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\EconomiaAziendale.vbproj.GenerateResource.Cache
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\EconomiaAziendale.exe
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\EconomiaAziendale.xml
+C:\Users\michi\OneDrive\Desktop\Michele\informatica\EconomiaAziendale\EconomiaAziendale\obj\x86\Debug\EconomiaAziendale.pdb

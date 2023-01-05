@@ -1,0 +1,9 @@
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\bin\Debug\ledezma.exe
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\bin\Debug\ledezma.pdb
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\bin\Debug\ledezma.xml
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.Form1.resources
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.Resources.resources
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.vbproj.GenerateResource.Cache
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.exe
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.xml
+C:\Users\latra\Desktop\INFORMATICA\ledezma\ledezma\obj\x86\Debug\ledezma.pdb

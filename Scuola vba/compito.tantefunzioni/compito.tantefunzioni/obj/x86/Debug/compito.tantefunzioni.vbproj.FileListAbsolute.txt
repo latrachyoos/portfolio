@@ -1,0 +1,9 @@
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\bin\Debug\compito.tantefunzioni.exe
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\bin\Debug\compito.tantefunzioni.pdb
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\bin\Debug\compito.tantefunzioni.xml
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\compito.tantefunzioni.vbproj.GenerateResource.Cache
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\compito.tantefunzioni.exe
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\compito.tantefunzioni.xml
+D:\INFORMATICA\compito.tantefunzioni\compito.tantefunzioni\obj\x86\Debug\compito.tantefunzioni.pdb

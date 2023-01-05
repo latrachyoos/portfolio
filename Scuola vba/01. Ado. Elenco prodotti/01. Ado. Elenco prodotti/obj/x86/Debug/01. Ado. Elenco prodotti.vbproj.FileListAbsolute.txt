@@ -1,0 +1,9 @@
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\bin\Debug\01. Ado. Elenco prodotti.exe
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\bin\Debug\01. Ado. Elenco prodotti.pdb
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\bin\Debug\01. Ado. Elenco prodotti.xml
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\_01.Ado.Elenco_prodotti.Form1.resources
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\_01.Ado.Elenco_prodotti.Resources.resources
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\01. Ado. Elenco prodotti.vbproj.GenerateResource.Cache
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\01. Ado. Elenco prodotti.exe
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\01. Ado. Elenco prodotti.xml
+C:\Users\latra\Desktop\INFORMATICA\01. Ado. Elenco prodotti\01. Ado. Elenco prodotti\obj\x86\Debug\01. Ado. Elenco prodotti.pdb

@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.persone\compito.persone\bin\Debug\compito.persone.exe
+F:\INFORMATICA\compito.persone\compito.persone\bin\Debug\compito.persone.pdb
+F:\INFORMATICA\compito.persone\compito.persone\bin\Debug\compito.persone.xml
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\compito.persone.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\compito.persone.exe
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\compito.persone.xml
+F:\INFORMATICA\compito.persone\compito.persone\obj\x86\Debug\compito.persone.pdb

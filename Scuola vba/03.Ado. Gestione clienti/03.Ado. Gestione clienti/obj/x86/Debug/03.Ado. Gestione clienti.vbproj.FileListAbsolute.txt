@@ -1,0 +1,18 @@
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\bin\Debug\_03.Ado.Gestione_clienti.exe
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\bin\Debug\_03.Ado.Gestione_clienti.pdb
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\bin\Debug\_03.Ado.Gestione_clienti.xml
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.Form1.resources
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.Resources.resources
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\03.Ado. Gestione clienti.vbproj.GenerateResource.Cache
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.exe
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.xml
+C:\Users\latra\AppData\Local\Temporary Projects\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.pdb
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\bin\Debug\03.Ado. Gestione clienti.exe
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\bin\Debug\03.Ado. Gestione clienti.pdb
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\bin\Debug\03.Ado. Gestione clienti.xml
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.Form1.resources
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\_03.Ado.Gestione_clienti.Resources.resources
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\03.Ado. Gestione clienti.vbproj.GenerateResource.Cache
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\03.Ado. Gestione clienti.exe
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\03.Ado. Gestione clienti.xml
+C:\Users\latra\Desktop\INFORMATICA\03.Ado. Gestione clienti\03.Ado. Gestione clienti\obj\x86\Debug\03.Ado. Gestione clienti.pdb

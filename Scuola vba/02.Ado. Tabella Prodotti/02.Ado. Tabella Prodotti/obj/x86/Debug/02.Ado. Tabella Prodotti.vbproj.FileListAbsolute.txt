@@ -1,0 +1,9 @@
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\bin\Debug\02.Ado. Tabella Prodotti.exe
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\bin\Debug\02.Ado. Tabella Prodotti.pdb
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\bin\Debug\02.Ado. Tabella Prodotti.xml
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\_02.Ado.Tabella_Prodotti.Form1.resources
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\_02.Ado.Tabella_Prodotti.Resources.resources
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\02.Ado. Tabella Prodotti.vbproj.GenerateResource.Cache
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\02.Ado. Tabella Prodotti.exe
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\02.Ado. Tabella Prodotti.xml
+C:\Users\latra\Desktop\INFORMATICA\02.Ado. Tabella Prodotti\02.Ado. Tabella Prodotti\obj\x86\Debug\02.Ado. Tabella Prodotti.pdb

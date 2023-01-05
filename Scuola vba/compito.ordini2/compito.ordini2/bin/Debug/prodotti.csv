@@ -1,0 +1,77 @@
+1;Chai;13,50;39;Bevande
+2;Chang;14,25;17;Bevande
+24;Guarana Fantastica;3,38;20;Bevande
+34;Sasquatch Ale;10,50;111;Bevande
+35;Steeleye Stout;13,50;20;Bevande
+38;Cote de Blaye;197,63;17;Bevande
+39;Chartreuse verte;13,50;69;Bevande
+43;Ipoh Coffee;34,50;17;Bevande
+67;Laughing Lumberjack Lager;10,50;52;Bevande
+70;Outback Lager;11,25;15;Bevande
+75;Rhonbrau Klosterbier;5,81;125;Bevande
+76;Lakkalikoori;13,50;57;Bevande
+3;Aniseed Syrup;7,50;13;Condimenti
+4;Chef Antons Cajun Seasoning;16,50;53;Condimenti
+5;Chef Antons Gumbo Mix;16,01;0;Condimenti
+6;Grandmas Boysenberry Spread;18,75;120;Condimenti
+8;Northwoods Cranberry Sauce;30,00;6;Condimenti
+15;Genen Shouyu;11,63;39;Condimenti
+44;Gula Malacca;14,59;27;Condimenti
+61;Sirop derable;21,38;113;Condimenti
+63;Vegie-spread;32,93;24;Condimenti
+65;Louisiana Fiery;15,79;76;Condimenti
+66;Louisiana Hot Spiced Okra;12,75;4;Condimenti
+77;Original Frankfurter grune Sosse;9,75;32;Condimenti
+16;Pavlova;13,09;29;Dolciumi
+19;Teatime Chocolate Biscuits;6,90;25;Dolciumi
+20;Sir Rodneys Marmalade;60,75;40;Dolciumi
+21;Sir Rodneys Scones;7,50;3;Dolciumi
+25;NuNuCa Nuss-Nougat-Creme;10,50;76;Dolciumi
+26;Gumbar Gummibarchen;23,42;15;Dolciumi
+27;Schoggi Schokolade;32,93;49;Dolciumi
+47;Zaanse koeken;7,13;36;Dolciumi
+48;Chocolade;9,56;15;Dolciumi
+49;Maxilaku;15,00;10;Dolciumi
+50;Valkoinen suklaa;12,19;65;Dolciumi
+62;Tarte au sucre;36,98;17;Dolciumi
+68;Scottish Longbreads;9,38;6;Dolciumi
+11;Queso Cabrales;15,75;22;Latticini
+12;Queso Manchego La Pastora;28,50;86;Latticini
+31;Gorgonzola Telino;9,38;0;Latticini
+32;Mascarpone Fabioli;24,00;9;Latticini
+33;Geitost;1,88;112;Latticini
+59;Raclette Courdavault;41,25;79;Latticini
+60;Camembert Pierrot;25,50;19;Latticini
+69;Gudbrandsdalsost;27,00;26;Latticini
+71;Flotemysost;16,13;26;Latticini
+72;Mozzarella di Giovanni;26,10;14;Latticini
+22;Gustafs Knackebrod;15,75;104;Cereali
+23;Tunnbrod;6,75;61;Cereali
+42;Singaporean Hokkien Fried Mee;10,50;26;Cereali
+52;Filo Mix;5,25;38;Cereali
+56;Gnocchi di nonna Alice;28,50;21;Cereali
+57;Ravioli Angelo;14,63;36;Cereali
+64;Wimmers gute Semmelknodel;24,94;22;Cereali
+9;Mishi Kobe Niku;72,75;29;Carne_pollame
+17;Alice Mutton;29,25;0;Carne_pollame
+29;Thuringer Rostbratwurst;92,84;0;Carne_pollame
+53;Perth Pasties;24,60;0;Carne_pollame
+54;Tourtiere;5,59;21;Carne_pollame
+55;Pate chinois;18,00;115;Carne_pollame
+7;Uncle Bobs Dried Pears;22,50;15;Prod. agricoli
+14;Tofu;17,44;35;Prod. agricoli
+28;Rossle Sauerkraut;34,20;26;Prod. agricoli
+51;Manjimup Dried Apples;39,75;20;Prod. agricoli
+74;Longlife Tofu;7,50;4;Prod. agricoli
+10;Ikura;23,25;31;Prod. ittici
+13;Konbu;4,50;24;Prod. ittici
+18;Carnarvon Tigers;46,88;42;Prod. ittici
+30;Nord-Ost Matjeshering;19,42;10;Prod. ittici
+36;Inlagd Sill;14,25;112;Prod. ittici
+37;Gravad lax;19,50;11;Prod. ittici
+40;Boston Crab Meat;13,80;123;Prod. ittici
+41;Jacks New England Clam Chowder;7,24;85;Prod. ittici
+45;Rogede sild;7,13;5;Prod. ittici
+46;Spegesild;9,00;95;Prod. ittici
+58;Escargots de Bourgogne;9,94;62;Prod. ittici
+73;Rod Kaviar;11,25;101;Prod. ittici

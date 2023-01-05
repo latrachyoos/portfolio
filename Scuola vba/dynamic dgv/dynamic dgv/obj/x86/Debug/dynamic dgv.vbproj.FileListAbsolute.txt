@@ -1,0 +1,19 @@
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\bin\Debug\dynamic dgv.exe
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\bin\Debug\dynamic dgv.pdb
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\bin\Debug\dynamic dgv.xml
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic_dgv.mdi.resources
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic_dgv.Resources.resources
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic dgv.vbproj.GenerateResource.Cache
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic dgv.exe
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic dgv.xml
+C:\Users\latra\AppData\Local\Temporary Projects\dynamic dgv\obj\x86\Debug\dynamic dgv.pdb
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic dgv.exe
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic dgv.xml
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic dgv.pdb
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\bin\Debug\dynamic dgv.exe
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\bin\Debug\dynamic dgv.pdb
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\bin\Debug\dynamic dgv.xml
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic_dgv.mdi.resources
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic_dgv.formprodottielenco.resources
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic_dgv.Resources.resources
+C:\Users\latra\Desktop\INFORMATICA\dynamic dgv\dynamic dgv\obj\x86\Debug\dynamic dgv.vbproj.GenerateResource.Cache

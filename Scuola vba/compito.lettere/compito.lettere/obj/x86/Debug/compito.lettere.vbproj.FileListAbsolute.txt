@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.lettere\compito.lettere\bin\Debug\compito.lettere.exe
+F:\INFORMATICA\compito.lettere\compito.lettere\bin\Debug\compito.lettere.pdb
+F:\INFORMATICA\compito.lettere\compito.lettere\bin\Debug\compito.lettere.xml
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\compito.lettere.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\compito.lettere.exe
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\compito.lettere.xml
+F:\INFORMATICA\compito.lettere\compito.lettere\obj\x86\Debug\compito.lettere.pdb

@@ -1,0 +1,9 @@
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\bin\Debug\compito.matriceCsv.exe
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\bin\Debug\compito.matriceCsv.pdb
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\bin\Debug\compito.matriceCsv.xml
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\compito.matriceCsv.vbproj.GenerateResource.Cache
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\compito.matriceCsv.exe
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\compito.matriceCsv.xml
+F:\INFORMATICA\compito.matriceCsv\compito.matriceCsv\obj\x86\Debug\compito.matriceCsv.pdb
